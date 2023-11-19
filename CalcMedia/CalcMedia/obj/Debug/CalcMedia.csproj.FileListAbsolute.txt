@@ -1,0 +1,10 @@
+C:\Users\vitor\CalcularMedia\CalcMedia\CalcMedia\bin\Debug\CalcMedia.exe.config
+C:\Users\vitor\CalcularMedia\CalcMedia\CalcMedia\bin\Debug\CalcMedia.exe
+C:\Users\vitor\CalcularMedia\CalcMedia\CalcMedia\bin\Debug\CalcMedia.pdb
+C:\Users\vitor\CalcularMedia\CalcMedia\CalcMedia\obj\Debug\CalcMedia.csproj.AssemblyReference.cache
+C:\Users\vitor\CalcularMedia\CalcMedia\CalcMedia\obj\Debug\CalcMedia.Form1.resources
+C:\Users\vitor\CalcularMedia\CalcMedia\CalcMedia\obj\Debug\CalcMedia.Properties.Resources.resources
+C:\Users\vitor\CalcularMedia\CalcMedia\CalcMedia\obj\Debug\CalcMedia.csproj.GenerateResource.cache
+C:\Users\vitor\CalcularMedia\CalcMedia\CalcMedia\obj\Debug\CalcMedia.csproj.CoreCompileInputs.cache
+C:\Users\vitor\CalcularMedia\CalcMedia\CalcMedia\obj\Debug\CalcMedia.exe
+C:\Users\vitor\CalcularMedia\CalcMedia\CalcMedia\obj\Debug\CalcMedia.pdb
