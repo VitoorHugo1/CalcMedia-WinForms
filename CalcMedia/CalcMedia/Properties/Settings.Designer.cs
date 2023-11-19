@@ -1,4 +1,4 @@
----------------------------------------------
+---
 
 namespace CalcMedia.Properties
 {
