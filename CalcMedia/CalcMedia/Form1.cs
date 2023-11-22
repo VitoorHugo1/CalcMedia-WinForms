@@ -78,7 +78,6 @@ namespace CalcMedia
                 this.Controls["label6"].Text = "...";
 
             }
-
         }
     }
 }
